@@ -34,7 +34,7 @@ Install pygame
 Go to src directory
 
 ```bash
-  cd inf1400-tohom2986-3/src 
+  cd CosmicAdventure/src 
 ```
 
 Run simulation
@@ -45,8 +45,12 @@ Run simulation
 
 ## Key Commands
 - Start Screen
-    - ```to start game, press "SPACE"```
-
+    - ```press "SPACE"```
+    - ```to start game you first need to pick ships and arena```
+        - ```press 1 for arena, and switch between the arenas using < >, and press "SPACE" to confirm```
+        - ```press 2 for first ship, and switch between the colours using < >, and press "SPACE" to confirm```
+        - ```press 3 for first ship, and switch between the colours using < >, and press "SPACE" to confirm```
+     - ```press "SPACE" when ready```
 
 - Player 1
   - ```to thrust, press "W"```
@@ -62,6 +66,8 @@ Run simulation
 
 - End Screen
     - ```to restart game, press "SPACE"```
+    - ```to customize arena and/or any of the ships, press "g"```
+    - ```to exit ther game, and see the credits, press "ESC" ```
 
 ## Features
 - Gravity 🕳
